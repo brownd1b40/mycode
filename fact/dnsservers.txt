@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+dns.example.co,
+lookup.tails.example.org
+sonic.dns.example.com
+search.drwiley.example.com
+dns.knuckles.example.org
+emerald.ring.example.org
+lookup.supershoes.example.com
+:
+
+
+

@@ -4,7 +4,7 @@ while(True):
     round = round + 1
     print ('Finish the movie title, "Monty Python\'s The Life of ______"')
     answer = input()
-    if (answer == 'Brian'):
+    if (answer.lower == 'Brian'):
         print('Correct')
         break
     elif(round==3):
@@ -12,6 +12,7 @@ while(True):
         break
     else:
         print('Sorry! Try again!')
+
 
 
 
